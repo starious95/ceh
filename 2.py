@@ -4,7 +4,7 @@ import datetime
 import random
 import string
 
-referrer = "id account cua ban"
+referrer = "id account can tang"
 timesToLoop = 50
 retryTimes = 5
 
